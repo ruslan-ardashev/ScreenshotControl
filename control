@@ -3,7 +3,7 @@ Name: NoWhiteFlash
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Removes white screenshot flash
+Description: Removes white screenshot flash.
 Maintainer: cabralcole
 Author: cabralcole
 Section: Tweaks
